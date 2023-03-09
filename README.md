@@ -14,7 +14,4 @@ Tecnologías utilizadas
 - Correr app desde xcode en un simulador
            
 ## Demo
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/72414242/222283606-42c4f074-1df4-442e-92f3-14cb22aaab82.gif)
-
-
-
+![ezgif com-video-to-gif (6)](https://user-images.githubusercontent.com/72414242/224172267-1cd5440c-9414-47bd-a711-064e630f8162.gif)
